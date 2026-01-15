@@ -6,7 +6,7 @@ import {
   obtenerPedido,
   actualizarPedido,
   eliminarPedido
-} from "../controllers/base/pedidosController.js";
+} from "../controllers/pedidosController.js";
 
 const router = express.Router();
 

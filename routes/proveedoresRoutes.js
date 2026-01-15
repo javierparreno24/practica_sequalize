@@ -6,7 +6,7 @@ import {
   obtenerProveedore,
   actualizarProveedore,
   eliminarProveedore
-} from "../controllers/base/proveedoresController.js";
+} from "../controllers/proveedoresController.js";
 
 const router = express.Router();
 

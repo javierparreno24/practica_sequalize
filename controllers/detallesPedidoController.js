@@ -1,5 +1,5 @@
 // controllers/detallesPedidoController.js
-import * as Base from "./base/detallesPedidoController.js";
+import * as Base from "./base/detallesPedidoBaseController.js";
 
 
 export const crearDetalles_pedid = Base.crearDetalles_pedid;

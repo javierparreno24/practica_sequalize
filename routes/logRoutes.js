@@ -6,7 +6,7 @@ import {
   obtenerLo,
   actualizarLo,
   eliminarLo
-} from "../controllers/base/logController.js";
+} from "../controllers/logController.js";
 
 const router = express.Router();
 
