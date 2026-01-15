@@ -14,7 +14,7 @@ initModels(sequelize);
 
 // =============================
 // AUTO-MONTAJE DE RUTAS
-// routes/<modelo>Routes.js  ->  /api/<modelo>
+// routes/<modelo>Routes.js ->  /api/<modelo>
 // =============================
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
