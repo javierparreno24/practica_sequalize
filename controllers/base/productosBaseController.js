@@ -1,5 +1,5 @@
 // controllers/base/productosBaseController.js
-import * as Service from "../../services/productosService.js";
+import * as Service from "../../services/productosServices.js";
 
 // CREATE
 export const crearProducto = async (req, res) => {

@@ -1,5 +1,5 @@
 // controllers/base/clientesBaseController.js
-import * as Service from "../../services/clientesService.js";
+import * as Service from "../../services/clienteService.js";
 
 // CREATE
 export const crearCliente = async (req, res) => {

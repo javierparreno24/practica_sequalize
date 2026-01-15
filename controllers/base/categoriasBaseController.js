@@ -1,5 +1,5 @@
 // controllers/base/categoriasBaseController.js
-import * as Service from "../../services/categoriasService.js";
+import * as Service from "../../services/categoriasServices.js";
 
 // CREATE
 export const crearCategoria = async (req, res) => {

@@ -1,5 +1,5 @@
 // controllers/base/detalles_pedidoBaseController.js
-import * as Service from "../../services/detallesPedidoService.js";
+import * as Service from "../../services/detallesPedidoServices.js";
 
 // CREATE
 export const crearDetalles_pedid = async (req, res) => {

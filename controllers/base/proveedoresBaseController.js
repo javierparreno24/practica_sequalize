@@ -1,5 +1,5 @@
 // controllers/base/proveedoresBaseController.js
-import * as Service from "../../services/proveedoresService.js";
+import * as Service from "../../services/proveedoresServices.js";
 
 // CREATE
 export const crearProveedore = async (req, res) => {
