@@ -1,4 +1,4 @@
-Aquí tienes un README.md completo para tu proyecto practica_sequalize (con todo lo que pediste 📄):
+
 
 # 🧠 API REST con AutoCRUD y MVC Reducida
 
